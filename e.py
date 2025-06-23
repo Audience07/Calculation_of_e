@@ -1,10 +1,8 @@
-#高精度库
+#高精度
 import decimal
 #延时
 import time
-#系统操作
-import os
-#数学库
+#数学
 import math
 def calc_e():
     #设置n
